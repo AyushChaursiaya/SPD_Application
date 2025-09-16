@@ -1,12 +1,34 @@
-# React + Vite
+# School Payments Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **School Payments Dashboard** app for managing transactions, fetching 52 mock transactions via **Axios**, with filtering, sorting, pagination, and dark/light mode.  
+Includes a table with a date column and animations.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Dynamic Data Fetching**: Axios with 500ms delay.
+- **Dashboard**: Stats, filters, sortable table, pagination.
+- **Transactions by School**: School selector, stats, table (no sorting/pagination). 
+- **Dark/Light Mode** and error handling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Instructions on How to Run/Start the Project on a Local Server
+1. #### clone the repo using this command
+    ```bash
+    git clone 
+    ```
+2. #### Install yarn dependencies
+    ```bash
+    npm install
+    ```
+3. #### Start the development server:
+    ```bash
+    npm run dev
+    ```
+4. #### Open your browser and navigate to:
+     ```bash
+    http://localhost:5173
+    ```
+4. #### Deployed Link for the Assignment:
+    [assignment]()
+## For any queries related to the project, contact at ayushchaurasiya289@gmail.com
