@@ -12,7 +12,7 @@ Includes a table with a date column and animations.
 
 ## Screenshorts
 
-## - Dashboard Pages
+- Dashboard Page
 ![alt text](./src/assets/image-1.png)
 
 ![alt text](./src/assets/image-2.png)
@@ -20,7 +20,7 @@ Includes a table with a date column and animations.
 ![alt text](./src/assets/image-3.png)
 
 
-## - School Transactions
+- School Transactions Page
 ![alt text](./src/assets/image-4.png)
 
 ![alt text](./src/assets/image-5.png)
