@@ -14,8 +14,8 @@ Includes a table with a date column and animations.
 
 ## Instructions on How to Run/Start the Project on a Local Server
 1. #### clone the repo using this command
-    ```bash
-    git clone 
+    ```bash 
+    git clone https://github.com/AyushChaursiaya/SPD_Application
     ```
 2. #### Install yarn dependencies
     ```bash
@@ -30,5 +30,5 @@ Includes a table with a date column and animations.
     http://localhost:5173
     ```
 4. #### Deployed Link for the Assignment:
-    [assignment]()
+    [assignment](https://spd-application.vercel.app/)
 ## For any queries related to the project, contact at ayushchaurasiya289@gmail.com
